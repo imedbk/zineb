@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+<body>
+</html>
+</head>
+</body>
+<!DOCTYPE html>
+    <title>Happy Birthday Celebration</title>
+    <section class="main-content">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <header>
+    <footer>
+    </section>
+    </header>
+    </footer>
+        <p>© 2023 Your Name</p>
+        <h1>Happy Birthday zineb!</h1>
+        <!-- Add your birthday content here -->
+
+
